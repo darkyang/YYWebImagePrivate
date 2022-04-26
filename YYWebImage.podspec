@@ -17,5 +17,6 @@ Pod::Spec.new do |s|
   s.frameworks = 'UIKit', 'CoreFoundation', 'QuartzCore', 'AssetsLibrary', 'ImageIO', 'Accelerate', 'MobileCoreServices'
   
   s.dependency 'YYImage'
+  s.dependency 'FTCSNS'
   
 end
